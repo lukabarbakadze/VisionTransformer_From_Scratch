@@ -8,6 +8,9 @@ The project is based on the following paper:
 * main.ipynb - Main working&training file
 * requirements.txt - Dependencies used in the project
 ---
+### Training Results
+![1](https://github.com/lukabarbakadze/VisionTransformer_From_Scratch/blob/main/charts/raining_results.png)
+---
 ### Table of Contents
 * Imports
 * Data Preprocessing
